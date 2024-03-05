@@ -1,0 +1,92 @@
+
+.icon{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #f9aa0b;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/wp7353563.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.price{
+    margin-left: 40%;
+    color: #f9aa0b;
+}
+.nav-item{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.contact-me{
+    padding-top: 10px;
+    padding: 50 0 20px;
+    padding-bottom: 50px;
+}
+.a-tag{
+  padding-left: 140px;
+  
+}
+
+.btn5 {
+    margin-left: 37%;
+  background: #34d958;
+  background-image: -webkit-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -moz-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -ms-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -o-linear-gradient(top, #34d958, #2b89b8);
+  background-image: linear-gradient(to bottom, #34d958, #2b89b8);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn5:hover {
+  background: #fcef3c;
+  background-image: -webkit-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -moz-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -ms-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -o-linear-gradient(top, #fcef3c, #d99734);
+  background-image: linear-gradient(to bottom, #fcef3c, #d99734);
+  text-decoration: none;
+}
+.btn6 {
+    margin-left: 0%;
+  background: #34d958;
+  background-image: -webkit-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -moz-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -ms-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -o-linear-gradient(top, #34d958, #2b89b8);
+  background-image: linear-gradient(to bottom, #34d958, #2b89b8);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn6:hover {
+  background: #fcef3c;
+  background-image: -webkit-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -moz-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -ms-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -o-linear-gradient(top, #fcef3c, #d99734);
+  background-image: linear-gradient(to bottom, #fcef3c, #d99734);
+  text-decoration: none;
+}
+.contact-me1{
+  padding-bottom: 20px;
+}
+.contact{
+    color: #f9aa0b;
+    font-family: Impact;
+    text-align: center;
+    margin-top: 0px;
+}

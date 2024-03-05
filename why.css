@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://png.pngtree.com/background/20230527/original/pngtree-pink-yoga-mat-on-the-floor-3d-render-photo-for-use-picture-image_2761686.jpg");
+    background-repeat: no-repeat;
+    
+    background-size: 100% 101%;
+}
+.headl{
+    color: gold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 8px;
+    font-size: 40px;
+}
+.n{
+    color: rgb(13, 240, 176);
+    font-family:'Times New Roman', Times, serif;   
+    font-size: 25px; 
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.l{
+    padding-bottom: 3px;
+    padding-top: 4px;
+}
+.btn5 {
+    margin-left: 48%;
+    padding-bottom: 30px;
+  background: #34d958;
+  background-image: -webkit-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -moz-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -ms-linear-gradient(top, #34d958, #2b89b8);
+  background-image: -o-linear-gradient(top, #34d958, #2b89b8);
+  background-image: linear-gradient(to bottom, #34d958, #2b89b8);
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn5:hover {
+  background: #fcef3c;
+  background-image: -webkit-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -moz-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -ms-linear-gradient(top, #fcef3c, #d99734);
+  background-image: -o-linear-gradient(top, #fcef3c, #d99734);
+  background-image: linear-gradient(to bottom, #fcef3c, #d99734);
+  text-decoration: none;
+}

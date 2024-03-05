@@ -1,0 +1,64 @@
+.container{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+.d-flex{
+    padding-bottom: 0px;
+}
+.icon{
+    color: gold;
+    padding-left: 45%;
+    padding-top: 350%;
+}
+.col-md-3{
+    margin-left: 36.5%;
+}
+.form-signin{
+    width: 40px;
+    background-color: #28282B;
+}
+.text{
+    color: rgb(12, 242, 8);
+    margin-bottom: 10px;
+    font-family:Impact;
+}
+.name{
+    border-radius: 6px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.password{
+    border-radius: 6px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.c{
+    width: 450px;
+    height: 150px;
+    background: #3cfa5f;
+}
+.s{
+    color: rgb(189, 189, 189);
+    font-family:Impact;
+}
+.s1{
+    color: gold;
+    font-family:Impact;
+}
+.s2{
+    color: rgb(248, 5, 5);
+    font-family:Impact;
+}
+body{
+    background-image: url("https://png.pngtree.com/background/20230519/original/pngtree-an-empty-gym-with-dark-grey-walls-picture-image_2667312.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.a-tag{
+    width: 500px;
+    height: 150px;
+}

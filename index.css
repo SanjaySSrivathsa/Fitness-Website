@@ -1,0 +1,86 @@
+
+.header{
+    margin-left: 30px;
+}
+.fs-4{
+    color:#f0a40a;
+}
+.icon{
+    margin-left: 45px;
+    margin-top: 10px;
+    color: #f9aa0b;
+}
+.nav-link{
+    margin-left: 10px;
+    font-weight: 100px;
+    color: #bf953f;
+}
+.col-md-3{
+    margin-right: 10px;
+}
+.img{
+    width: 50%;
+    height: 430px;
+    margin-left: 34px;
+    margin-top: 0px;
+}
+.home_photo{
+    display: flex; 
+    margin-bottom: 185px;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1593079831268-3381b0db4a77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGd5bXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.quotes{
+    color:#d5dad9;
+    font-family: Impact;
+    font-size: 50px;
+    margin-left: 130px;
+    margin-top: 110px;
+    margin-bottom: 100px;
+    margin-right: 30px;
+}
+.by{
+    margin-top: 400px;
+    color: #bf953f;
+    font-family: Impact;
+    margin-left: 0px;
+    margin-top: 280px;
+}
+.footer{
+    
+    padding-bottom: 28px;
+}
+.scanner{
+    width: 80px;
+    height: 80px;
+    margin-left: 48%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.contact{
+    margin-left: 30px;
+    color: #0a0700;
+    font-family:Impact;
+    text-align: center;
+    margin-left: 43.5%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.col-md-4{
+    margin-top: 10px;
+    margin-left: 45.5%;
+    font-family:Impact;
+    color: #060400;
+}
+.welcome{
+    margin-left: 35%;
+}
+.btn{
+    text-decoration: none;
+    background-color: blue;
+}

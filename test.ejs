@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="loginr.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <script src="real.js"></script>
+</head>
+<body>
+    <section class="h-100 h-custom" style="background-color:#504b4b;">
+        <div class="container py-5 h-100">
+          <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-lg-8 col-xl-6">
+              <div class="card rounded-3">
+                <img  class = "i" src="https://static.vecteezy.com/system/resources/thumbnails/008/124/777/small_2x/real-estate-logo-house-logo-home-logo-sign-symbol-free-vector.jpg"
+                  class="w-100" style="border-top-left-radius: .3rem; border-top-right-radius: .3rem;"
+                  alt="Sample photo">
+                <div class="card-body p-4 p-md-5">
+                  <h3 class="mb-4 pb-2 pb-md-0 mb-md-5 px-md-2">Registration Info</h3>
+                    <form action="/submit" method="POST">
+                  <form class="px-md-2">
+      
+                    <div class="form-outline mb-4">
+                      <input type="text" id="form3Example1q" class="form-control" name="cname" /><%= Name %>
+                      <label class="form-label" for="form3Example1q">Name</label>
+                    </div>
+                    <div class="form-outline mb-4">
+                        <input type="text" id="form3Example1q" class="form-control" name="cname" /><%= Area %>
+                        <label class="form-label" for="form3Example1q">Area</label>
+                    </div>
+                    <h1 id="new">Remaining Sites count for dimension = 600sq.ft : <%= D600 %> </h1>
+                    <h1 id="new">Remaining Sites count for dimension = 1200sq.ft : <%= D1200 %> </h1>
+                    <h1 id="new">Remaining Sites count for dimension = 2400sq.ft : <%= D2400 %> </h1>
+                </div>
+                <label for="cars">Dimension = 600 sq.ft :</label>
+
+                <select name="D600" id="D600">
+                  <option value="0">0</option>
+                  <option value="1">1</option>
+                </select>
+
+                <label for="cars">Dimension = 1200 sq.ft :</label>
+
+                <select name="D1200" id="D1200">
+                  <option value="0">0</option>
+                  <option value="1">1</option>
+                </select>
+                <label for="cars">Dimension = 2400 sq.ft :</label>
+
+                <select name="D2400" id="D2400">
+                  <option value="0">0</option>
+                  <option value="1">1</option>
+                </select>
+                    <button type="submit" class="btn btn-success btn-lg mb-1">Register</button>
+      
+                  </form>
+                </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="footer" class="last">
+        <div class="container">
+          <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-0 border-top ml-0 mr-0">
+            <p class="col-md-4 mb-0 text-warning">© Real Estate, Inc</p>
+        
+            <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+              <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+            </a>
+        
+            <ul class="nav col-md-4 justify-content-end">
+              <li class="nav-item"><a href="/" class="nav-link px-2 text-warning">Home</a></li>
+              <li class="nav-item"><a href="/aboutr" class="nav-link px-2  text-warning">about</a></li>
+              <li class="nav-item"><a href="/Anlytical" class="nav-link px-2  text-warning">Anlytical</a></li>
+            </ul>
+          </footer>
+        </div>
+      </section>
+</body>

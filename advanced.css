@@ -1,0 +1,59 @@
+.chest{
+    width: 350px;
+    height: 120px;
+}
+.dropdown{
+    margin-bottom: 100px;
+    margin-left: 300px;
+}
+.dropdow{
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 800px;
+    width: 100px;
+}
+.dropdow1{
+    
+    margin-right: 300px;
+    margin-left: 800px;
+}
+.dropdo{
+    
+    margin-right: 300px;
+    margin-left: 800px;
+}
+.cp{
+    width: 100px;
+    height: 70px;
+}
+.cont{
+    background-color: #28282B;
+}
+.o{
+    justify-content: center;
+    text-align: center;
+    font-family: Impact;
+    color: gold;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.o1{
+    justify-content: center;
+    text-align: center;
+    font-family: Impact;
+    color: gold;
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+#new{
+    justify-content: center;
+    text-align: center;
+    font-family: Impact;
+    color: gold;
+    padding-bottom: 60px;
+    padding-top: 0px;
+}
+.g{
+    font-family: Impact;
+    color: gold;
+}
